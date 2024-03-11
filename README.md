@@ -1,6 +1,6 @@
 # Horiseon Multi-Marketing
 
-## Description##
+## Description
 Horiseon is a social media marketing platform that allows users to take control of who sees their content. It provides many meaningful ways of approaching multiple kinds of advertisement, whether on social media or search engines. We also provide resources to build and maintain, and manage a positive public image.
 
 ## Purpose
