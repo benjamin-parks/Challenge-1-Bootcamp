@@ -21,3 +21,7 @@ Navigate through the website with the mouse and scroll wheel. There are hyperlin
 ![Top of webpage](./assets/images/Website-top.jpeg?raw=true "Top of webpage")
 
 ![Bottom of webpage](./assets/images/Website-bottom.jpeg?raw=true "Bottom of webpage")
+
+## Link to website:
+
+https://benjamin-parks.github.io/Horiseon-Social-Media-Marketing-BenParks/
