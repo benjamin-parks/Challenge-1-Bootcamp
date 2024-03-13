@@ -15,3 +15,9 @@ There is no install. Either clone the repo from github and launch the index.html
 ## Usage
 
 Navigate through the website with the mouse and scroll wheel. There are hyperlinks near the top that jump you to the correlating sections on the web page.
+
+## Screenshots
+
+![Top of webpage](./assets/images/Website-top.jpeg?raw=true "Top of webpage")
+
+![Bottom of webpage](./assets/images/Website-bottom.jpeg?raw=true "Bottom of webpage")
